@@ -3,13 +3,13 @@
 
 ---
 
-- 🎓 I'm a Computer Science student who loves building apps
+- 🎓 I'm a Information Technology student who loves building apps and websites
 - 🔭 Currently working on: **Employee Management System**, **Smart Quarantine Vault**
 - 🌱 Learning: **Spring Boot**, **Cybersecurity**, and **Ransomware Detection**
 - 👯 Open to collaborate on: **Full Stack Projects & AI Security Tools**
 - 💬 Ask me about: Java, React, MongoDB, APIs
-- 📫 Reach me: [pavithran.c@email.com](mailto:pavithran.c@email.com)
-- ⚡ Fun fact: I automate boring stuff with Python 🐍
+- 📫 Reach me: [pavithran.c@email.com](mailto:pavithran71271@gmail.com)
+- ⚡ Fun fact: I automate boring stuff with React
 
 ---
 
@@ -30,7 +30,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavithran-c&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithran-c&theme=tokyonight" width="45%"/>
 </p>
 
 ---
