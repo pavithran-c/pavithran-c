@@ -8,7 +8,7 @@
 - 🌱 Learning: **Spring Boot**, **Cybersecurity**, and **Ransomware Detection**
 - 👯 Open to collaborate on: **Full Stack Projects & AI Security Tools**
 - 💬 Ask me about: Java, React, MongoDB, APIs
-- 📫 Reach me: [pavithran.c@email.com](mailto:pavithran71271@gmail.com)
+- 📫 Reach me: [pavithran71271@gmail.com](mailto:pavithran71271@gmail.com)
 - ⚡ Fun fact: I automate boring stuff with React
 
 ---
